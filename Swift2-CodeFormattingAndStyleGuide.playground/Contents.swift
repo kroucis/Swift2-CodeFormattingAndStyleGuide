@@ -3,7 +3,7 @@
 ### Copyright © Kyle Roucis 2015-2016
 #### v 1.0.0
 
-## Preable
+## Preamble
 Everyone speaks differently. Everyone writes differently. Everyone constructs sentences differently. Everyone writes code differently. Simple facts of life. However, establishing conventions and styleguides helps collaborators create more efficiently. I (Kyle Roucis) present my own personal styleguide for generation of Swift 2 code in this document. It flies in the face of established conventions at times, and otherwise outlines the obvious. Even with these flaws, I hope that this guide will spurn discussion and hopefully make collaborating with me on future projects easier. Please feel free to contact me with regards to this guide by email at kyle (amphora) kyleroucis (dot) com.
 */
 
